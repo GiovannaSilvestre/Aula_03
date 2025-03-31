@@ -2,6 +2,7 @@
 
 A=5
 B=10
+print (f"O valor de A é {A}, O valor de B é {B}")
 aux=A
 A=B
 B=aux
